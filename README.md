@@ -8,7 +8,8 @@
 
 #### **目录讲解**
 
-![](image/dfe42bdf3418b471ef97be31d812c515_oonFswMOAU.png)
+![dfe42bdf3418b471ef97be31d812c515_oonFswMOAU](https://github.com/user-attachments/assets/090671ec-ce36-4acc-b8a2-92a6cb066f5d)
+
 
 #### **随笔**
 
@@ -40,7 +41,8 @@ export const getSession = cache(async () => {
 - `<thead>`通常位于`<table>`的顶部，包含`<tr>`元素。`<tr>`中的`<th>`元素表示列标题。
 - `<tbody>`位于`<thead>`之后，包含`<tr>`元素。`<tr>`中的`<td>`元素表示行数据。
 
-![](image/fd8fbb2b31b3cb6566b6cff801380cff_tGJKXAOJBm.png)
+![fd8fbb2b31b3cb6566b6cff801380cff_tGJKXAOJBm](https://github.com/user-attachments/assets/248a44aa-2246-4669-ac3c-f9f0c1579a08)
+
 
 **mongoose数据库使用**
 
